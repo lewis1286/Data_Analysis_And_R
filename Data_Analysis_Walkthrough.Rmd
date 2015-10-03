@@ -4,3 +4,10 @@ author: "Lewis Guignard"
 date: "October 3, 2015"
 output: pdf_document
 ---
+
+# Introduction
+
+# Data Wrangling
+
+# Exploratory Data Analysis
+
