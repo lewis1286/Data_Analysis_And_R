@@ -6,8 +6,8 @@ Set of documents to structure using R in Analysing Datasets
 This repository contains general methods and instructions for working with datasets in R,
 Searching for general insights on the data.  
 
-RCheatCheet 
+RCheatCheet:  
 just that, my growing cheat cheet of R commands and tips 
 
-DAnalysis
+DAnalysis: 
 LaTeX document scaffolding out how to go about learning from a dataset.
